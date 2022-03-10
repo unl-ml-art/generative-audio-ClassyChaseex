@@ -1,12 +1,10 @@
 # Project 2 Generative Audio
 
-Your Name, yourcontact@unl.edu
-
-(Your teammate's contact info, if appropriate)
+Karston Chase, kchase4@huskers.unl.edu
 
 ## Abstract
 
-Include your abstract here. This should be one paragraph clearly describing your concept, method, and results. This should tell us what architecture/approach you used. Also describe your creative goals, and whether you were successful in achieving them. Also could describe future directions.
+In my project I would want to have an AI assist me in making an original song. The AI could generate texts for lyrics, a background beat, and even try to interpret the lyrics into song. Obviously getting all three of these to line up and work together would be difficult and wouldn't happen on the first try. What I would do is cherry pick the best of those three categories that I feel work best together and then add a little bit of humanity to it. Any awkward sounding beats or weird drop offs could be manually fixed by me and then I could sing the lyrics in a more natural sounding way than I'm guessing the AI could.
 
 ## Model/Data
 
