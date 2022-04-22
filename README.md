@@ -22,7 +22,7 @@ Your code for generating your project:
 
 Documentation of your results in an appropriate format, both links to files and a brief description of their contents:
 - nirvana_background_generation4.wav (This is the fully generated AI track for the chosen song.)
-- nirvana_isolated_local.wav (This is the isolated audio I edited out of Nirvana's song "In Bloom".)
+- nirvana_isolated_local.wav (This file is not present in the repository because it is too large, but I will try to add it to the Canvas post if possible. It is the isolated audio I edited out of Nirvana's song "In Bloom". If you listen to that song, just imagine it being all vocals with no music in the background and that is basically what this file is.)
 - Nirvana_Remix_3.wav (This is fully edited final product. There are actually two backing tracks put together here and blended to give a little more variety between the tracks. The isolated lyrics from "In Bloom" are edited onto the backing track and edited in a way that best matches up with the audio sample.)
 
 ## Technical Notes
