@@ -29,6 +29,7 @@ Documentation of your results in an appropriate format, both links to files and 
 
 - I messed with the temperature a bit to 1.0 on the second backing track.
 - If you try to run the Jupyter Notebook yourself with the previously used settings, you might get a similar sounding track to mine. However, the final product is an edited combination of multiple tracks put together. While you might notice some similarities, the final track won't be exactly the same as the track submitted here.
+- I just want to note that Google Magenta was also used to help with track interpolation. While I didn't use it to it's full extent for the project I wanted to give it an honorable mention as it helped a little bit in the editing process.
 
 ## Reference
 
