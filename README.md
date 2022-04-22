@@ -4,7 +4,7 @@ Karston Chase, kchase4@huskers.unl.edu
 
 ## Abstract
 
-In my project I would want to have an AI assist me in remixing a song. The AI could either generate new texts for lyrics on an existing song or a background beat for existing lyrics. Getting the track to line up and work together with the lyrics would be difficult and wouldn't happen on the first try. What I would do is cherry pick the best tracks or lyrics that I feel work best together and then edit them to sound somewhat believeable. Any awkward sounding beats or weird drop offs could be manually fixed by me and then I could pick out lyrics from an existing band like AC/DC and make a somewhat remix out of their existing song with generated backing tracks.
+In my project I would want to have an AI assist me in remixing a song. The AI could either generate new texts for lyrics on an existing song or a background beat for existing lyrics. Getting the track to line up and work together with the lyrics would be difficult and wouldn't happen on the first try. What I would do is cherry pick the best tracks or lyrics that I feel work best together and then edit them to sound somewhat believeable. Any awkward sounding beats or weird drop offs could be manually fixed by me and then I could pick out lyrics from an existing band like AC/DC or Nirvana and make a somewhat remix out of their existing song with generated backing tracks.
 
 ## Model/Data
 
